@@ -1,0 +1,29 @@
+"use strict";
+
+console.log("arr" + " - object");
+console.log(4 + "5");
+
+let incr = 10,
+    decr = 10;
+
+// incr++;
+// decr--;
+
+console.log(incr);
+console.log(decr);
+
+console.log(5%2);
+
+console.log(2*4 == 8);
+console.log(3*3 == "9");
+
+console.log(5*5 === 25); //true
+console.log(5*5 === "25"); //false
+
+// && - і (якщо значення вырны вертаэ нам True)
+const isCheced = true,
+      isClose = true;
+
+console.log(isCheced && isClose);
+
+

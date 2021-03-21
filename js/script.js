@@ -20,10 +20,8 @@ console.log(3*3 == "9");
 console.log(5*5 === 25); //true
 console.log(5*5 === "25"); //false
 
-// && - і (якщо значення вырны вертаэ нам True)
-const isCheced = true,
-      isClose = true;
 
-console.log(isCheced && isClose);
+
+
 
 
